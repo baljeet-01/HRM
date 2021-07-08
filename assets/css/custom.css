@@ -1,0 +1,41 @@
+
+.view-heading 
+{
+	color: rgb(0,0,0,0.9);
+	font-size: 120%;
+}
+
+#tabs .nav-tabs .nav-link {
+    border: 1px solid transparent;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    color: rgb(0,0,0,0.9);
+    font-size: 16px;
+}
+
+#tabs .nav-tabs .nav-link.active {
+    color: #f8b739;;
+    background-color: transparent;
+    border-color: transparent transparent #f3f3f3;
+    border-bottom: 4px solid !important;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.multiselect-btn{
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+}
+
+.star-rating{
+    font-size: 2rem;
+    color: #FDCC0D;
+}
+
+.input-label{
+    font-size: 1.5rem;
+}
+
+#textarea{
+    resize: none;
+}
